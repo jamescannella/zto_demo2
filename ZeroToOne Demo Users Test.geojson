@@ -1,0 +1,691 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.636304,41.878527 ]
+    },
+    "properties": {
+    "userID":110350081701,
+    "inCohort":"Yes",
+    "Day":"Fri",
+    "PredictionAccuracy":0.92,
+    "Hour":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.638987,41.878699 ]
+    },
+    "properties": {
+    "userID":120350003582,
+    "inCohort":"No",
+    "Day":"Fri",
+    "PredictionAccuracy":0.87,
+    "Hour":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.639105,41.878886 ]
+    },
+    "properties": {
+    "userID":130349925463,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.92,
+    "Hour":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.638001,41.978001 ]
+    },
+    "properties": {
+    "userID":140349847344,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.87,
+    "Hour":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.641531,41.882825 ]
+    },
+    "properties": {
+    "userID":150349769225,
+    "inCohort":"Yes",
+    "Day":"Wed",
+    "PredictionAccuracy":0.82,
+    "Hour":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.640376,41.881654 ]
+    },
+    "properties": {
+    "userID":160349691106,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.77,
+    "Hour":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.638624,41.885432 ]
+    },
+    "properties": {
+    "userID":170349612987,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.72,
+    "Hour":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.625700,41.878058 ]
+    },
+    "properties": {
+    "userID":180349534868,
+    "inCohort":"No",
+    "Day":"Sat",
+    "PredictionAccuracy":0.67,
+    "Hour":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.627647,41.885601 ]
+    },
+    "properties": {
+    "userID":190349456749,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.93,
+    "Hour":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.626649,41.885509 ]
+    },
+    "properties": {
+    "userID":200349378630,
+    "inCohort":"Yes",
+    "Day":"Sat",
+    "PredictionAccuracy":0.91,
+    "Hour":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.630082,41.881786 ]
+    },
+    "properties": {
+    "userID":210349300511,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.89,
+    "Hour":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.624735,41.880429 ]
+    },
+    "properties": {
+    "userID":220349222392,
+    "inCohort":"No",
+    "Day":"Sat",
+    "PredictionAccuracy":0.87,
+    "Hour":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.627647,41.885601 ]
+    },
+    "properties": {
+    "userID":230349144273,
+    "inCohort":"No",
+    "Day":"Tue",
+    "PredictionAccuracy":0.85,
+    "Hour":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.626649,41.885509 ]
+    },
+    "properties": {
+    "userID":240349066154,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.83,
+    "Hour":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.726649,41.855003 ]
+    },
+    "properties": {
+    "userID":250348988035,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.81,
+    "Hour":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.630082,41.751756 ]
+    },
+    "properties": {
+    "userID":260348909916,
+    "inCohort":"No",
+    "Day":"Mon",
+    "PredictionAccuracy":0.79,
+    "Hour":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.125700,41.578058 ]
+    },
+    "properties": {
+    "userID":270348831797,
+    "inCohort":"No",
+    "Day":"Mon",
+    "PredictionAccuracy":0.94,
+    "Hour":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.233700,41.406060 ]
+    },
+    "properties": {
+    "userID":280348753678,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.83,
+    "Hour":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.138624,41.985432 ]
+    },
+    "properties": {
+    "userID":290348675559,
+    "inCohort":"Yes",
+    "Day":"Wed",
+    "PredictionAccuracy":0.72,
+    "Hour":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.338001,41.999886 ]
+    },
+    "properties": {
+    "userID":300348597440,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.81,
+    "Hour":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.838001,41.900282 ]
+    },
+    "properties": {
+    "userID":310348519321,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.96,
+    "Hour":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -89.538001,41.930277 ]
+    },
+    "properties": {
+    "userID":320348441202,
+    "inCohort":"No",
+    "Day":"Fri",
+    "PredictionAccuracy":0.93,
+    "Hour":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -86.538001,41.9662801 ]
+    },
+    "properties": {
+    "userID":330348363083,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.9,
+    "Hour":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.936304,41.9785201 ]
+    },
+    "properties": {
+    "userID":340348284964,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.87,
+    "Hour":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -84.106304,41.8995305 ]
+    },
+    "properties": {
+    "userID":350348206845,
+    "inCohort":"No",
+    "Day":"Fri",
+    "PredictionAccuracy":0.84,
+    "Hour":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -85.126304,41.900527 ]
+    },
+    "properties": {
+    "userID":360348128726,
+    "inCohort":"Yes",
+    "Day":"Sat",
+    "PredictionAccuracy":0.81,
+    "Hour":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.626649,41.885509 ]
+    },
+    "properties": {
+    "userID":370348050607,
+    "inCohort":"No",
+    "Day":"Sat",
+    "PredictionAccuracy":0.78,
+    "Hour":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6457485,41.8814793 ]
+    },
+    "properties": {
+    "userID":380347972488,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.75,
+    "Hour":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6597094,41.889402 ]
+    },
+    "properties": {
+    "userID":390347894369,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.72,
+    "Hour":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6616059,41.9152812 ]
+    },
+    "properties": {
+    "userID":400347816250,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.97,
+    "Hour":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6651884,41.9285696 ]
+    },
+    "properties": {
+    "userID":410347738131,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.95,
+    "Hour":5
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.676041,41.9353891 ]
+    },
+    "properties": {
+    "userID":420347660012,
+    "inCohort":"No",
+    "Day":"Mon",
+    "PredictionAccuracy":0.94,
+    "Hour":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.666084,41.9480072 ]
+    },
+    "properties": {
+    "userID":430347581893,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.92,
+    "Hour":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6805717,41.9428074 ]
+    },
+    "properties": {
+    "userID":440347503774,
+    "inCohort":"No",
+    "Day":"Tue",
+    "PredictionAccuracy":0.98,
+    "Hour":4
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6879999,41.9238268 ]
+    },
+    "properties": {
+    "userID":450347425655,
+    "inCohort":"No",
+    "Day":"Mon",
+    "PredictionAccuracy":0.91,
+    "Hour":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7121286,41.9105374 ]
+    },
+    "properties": {
+    "userID":460347347536,
+    "inCohort":"No",
+    "Day":"Tue",
+    "PredictionAccuracy":0.92,
+    "Hour":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7175022,41.890304 ]
+    },
+    "properties": {
+    "userID":470347269417,
+    "inCohort":"No",
+    "Day":"Mon",
+    "PredictionAccuracy":0.89,
+    "Hour":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.741262,41.8601381 ]
+    },
+    "properties": {
+    "userID":480347191298,
+    "inCohort":"No",
+    "Day":"Tue",
+    "PredictionAccuracy":0.95,
+    "Hour":9
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7078086,41.8432644 ]
+    },
+    "properties": {
+    "userID":490347113179,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.93,
+    "Hour":8
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6517543,41.831999 ]
+    },
+    "properties": {
+    "userID":500347035060,
+    "inCohort":"No",
+    "Day":"Tue",
+    "PredictionAccuracy":0.82,
+    "Hour":11
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.6517543,41.9319302 ]
+    },
+    "properties": {
+    "userID":510346956941,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.9,
+    "Hour":7
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.1517543,41.8019207 ]
+    },
+    "properties": {
+    "userID":520346878822,
+    "inCohort":"Yes",
+    "Day":"Thu",
+    "PredictionAccuracy":0.91,
+    "Hour":10
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.5517543,41.8919200 ]
+    },
+    "properties": {
+    "userID":530346800703,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.85,
+    "Hour":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.641531,41.802825 ]
+    },
+    "properties": {
+    "userID":540346722584,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.94,
+    "Hour":12
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.640376,41.101654 ]
+    },
+    "properties": {
+    "userID":550346644465,
+    "inCohort":"No",
+    "Day":"Thu",
+    "PredictionAccuracy":0.89,
+    "Hour":3
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.941500,41.302800 ]
+    },
+    "properties": {
+    "userID":560346566346,
+    "inCohort":"No",
+    "Day":"Sun",
+    "PredictionAccuracy":0.87,
+    "Hour":1
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.771500,41.452800 ]
+    },
+    "properties": {
+    "userID":570346488227,
+    "inCohort":"No",
+    "Day":"Wed",
+    "PredictionAccuracy":0.96,
+    "Hour":2
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -88.571500,41.952800 ]
+    },
+    "properties": {
+    "userID":580346410108,
+    "inCohort":"No",
+    "Day":"Tue",
+    "PredictionAccuracy":0.91,
+    "Hour":6
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.0805100,41.440874 ]
+    },
+    "properties": {
+    "userID":590346331989,
+    "inCohort":"No",
+    "Day":"Sat",
+    "PredictionAccuracy":0.84,
+    "Hour":7
+    }
+  }
+]
+}
