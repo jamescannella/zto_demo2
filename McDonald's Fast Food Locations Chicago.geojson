@@ -1,0 +1,545 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.630848,41.881306 ]
+    },
+    "properties": {
+    "address":"23 S Clark St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60603,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.765386,41.86569 ]
+    },
+    "properties": {
+    "address":"5624 W Roosevelt Rd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60644,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.655199,41.976203 ]
+    },
+    "properties": {
+    "address":"5130 N Sheridan Rd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60640,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.62321,41.79476 ]
+    },
+    "properties": {
+    "address":"70 E Garfield Blvd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60615,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.621174,41.830828 ]
+    },
+    "properties": {
+    "address":"207 E 35th St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60616,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.735077,41.91002 ]
+    },
+    "properties": {
+    "address":"4338 W North Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60639,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.693793,41.94671 ]
+    },
+    "properties": {
+    "address":"2608 W Addison St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60618,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.742052,41.931369 ]
+    },
+    "properties": {
+    "address":"4601 W Diversey Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60639,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6316,41.8929 ]
+    },
+    "properties": {
+    "address":"600 N Clark",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60610,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6468,41.8389 ]
+    },
+    "properties": {
+    "address":"3020 S Halsted St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60608,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.6176,41.894 ]
+    },
+    "properties": {
+    "address":"645 N McClurg Ct",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60611,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7032,41.7886 ]
+    },
+    "properties": {
+    "address":"5733 S Kedzie Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60629,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.70863,41.96415 ]
+    },
+    "properties": {
+    "address":"4546 N Kedzie Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60625,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76864,41.95316 ]
+    },
+    "properties": {
+    "address":"5656 W Irving Park Rd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"McDonald's",
+    "postalCode":60634,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.7426,41.77679 ]
+    },
+    "properties": {
+    "address":"6350 S Cicero Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60638,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.663536,41.925031 ]
+    },
+    "properties": {
+    "address":"1401 W Fullerton Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60614,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.76259,41.80486 ]
+    },
+    "properties": {
+    "address":"4851 S Central Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60638,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.78684,41.953205 ]
+    },
+    "properties": {
+    "address":"6400 W Irving Park Rd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60634,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.685181,41.825838 ]
+    },
+    "properties": {
+    "address":"3728 S Archer Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60632,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.72252,41.93863 ]
+    },
+    "properties": {
+    "address":"3167 N Milwaukee Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60618,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.665250154,41.836927933 ]
+    },
+    "properties": {
+    "address":"3141 Ashland Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60608,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.749611,41.909958 ]
+    },
+    "properties": {
+    "address":"4910 W North Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60639,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.749771,41.955822 ]
+    },
+    "properties": {
+    "address":"4125 N Milwaukee Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60641,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.725533,41.895145 ]
+    },
+    "properties": {
+    "address":"3953 W Chicago Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60624,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.675407,41.808731 ]
+    },
+    "properties": {
+    "address":"2000 W 47th St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60609,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.686195,41.895992 ]
+    },
+    "properties": {
+    "address":"2344 W Chicago Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60622,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.663162,41.954018 ]
+    },
+    "properties": {
+    "address":"1323 W Irving Park Rd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60613,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.620105,41.721805 ]
+    },
+    "properties": {
+    "address":"110 E 95th St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60619,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.66525015,41.83692793 ]
+    },
+    "properties": {
+    "address":"3141 Ashland Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Burger King",
+    "postalCode":60608,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.688572,41.947144 ]
+    },
+    "properties": {
+    "address":"3610 N Western Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Wendy's",
+    "postalCode":60618,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.630854,41.881686 ]
+    },
+    "properties": {
+    "address":"6 S Clark St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Wendy's",
+    "postalCode":60603,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.632676,41.794435 ]
+    },
+    "properties": {
+    "address":"242 W Garfield Blvd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Wendy's",
+    "postalCode":60609,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.681254,41.968494 ]
+    },
+    "properties": {
+    "address":"2053 W Lawrence Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Wendy's",
+    "postalCode":60625,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.710321,41.866758 ]
+    },
+    "properties": {
+    "address":"3350 W Roosevelt Rd",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Taco Bell",
+    "postalCode":60624,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.791554,41.924213 ]
+    },
+    "properties": {
+    "address":"6622 W Fullerton Ave",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Taco Bell",
+    "postalCode":60639,
+    "State":"IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -87.639713,41.881876 ]
+    },
+    "properties": {
+    "address":"500 W Madison St",
+    "city":"Chicago",
+    "country":"US",
+    "name":"Taco Bell",
+    "postalCode":60661,
+    "State":"IL"
+    }
+  }
+]
+}
